@@ -9,7 +9,20 @@
 * [22.12.26~22.02.15] 3rd UMC 앱런칭 프로젝트 "라고할때살걸" **BE 우수상 수상**
 * [23.06.28~23.08.24] 4nd UMC 프로젝트 "CMAP" **BE**
 
+---
+<h3 align="center">📧 Email 📧</h3>
 
+<div align="center">kodd11021@gmail.com</div>
+
+<div align="center"></div>
+
+<br></br>
+
+<p align="center">
+  <div align="center">👾🤖 안녕하세요! 👽👻</div>
+  <div align="center">"게으름이 내 실력의 이유가 되지 말자"를 모토로 공부하고 있는 박성훈입니다.</div>
+  <div align="center">소통을 중요하게 생각하고 매일매일 새로운 무언가를 배우기 위해 달리고 있습니다.</div>
+</p>
 
 
 <h2 align="center">🛠 Teck Stack 🛠</h2>
@@ -38,18 +51,6 @@
 
 <br></br>
 
-<h3 align="center">📧 Email 📧</h3>
-
-<div align="center">kodd11021@gmail.com</div>
-
-<div align="center"></div>
-
-<br></br>
-
-<p align="center">
-  <div align="center">"게으름이 내 실력의 이유가 되지 말자"를 모토로 공부하고 있는 박성훈입니다.</div>
-  <div align="center">소통을 중요하게 생각하고 매일매일 새로운 무언가를 배우기 위해 달리고 있습니다.</div>
-</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongddiyong&show_icons=true&theme=radical)
 
