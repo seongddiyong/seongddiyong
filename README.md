@@ -10,6 +10,7 @@
 * [23.06.28~23.08.24] [4nd UMC 프로젝트 "CMAP"](https://github.com/UMCCMAP/server) **BE**
 
 ---
+<br></br>
 <h3 align="center">📧 Email 📧</h3>
 
 <div align="center">kodd11021@gmail.com</div>
@@ -24,6 +25,7 @@
   <div align="center">소통을 중요하게 생각하고 매일매일 새로운 무언가를 배우기 위해 달리고 있습니다.</div>
 </p>
 
+<br></br>
 
 <h2 align="center">🛠 Teck Stack 🛠</h2>
 <div align="center">👾 used as the main 👾</div>
