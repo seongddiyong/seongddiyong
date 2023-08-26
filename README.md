@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Park%20SeongHoon&font-size=70&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park%20SeongHoon&fontSize=90)
 
 
 <h2 align="center">💻 Work Experience 💻</h2>
@@ -13,22 +13,26 @@
 
 
 <h2 align="center">🛠 Teck Stack 🛠</h2>
-<div align="center">Tech that I've used at least once</div>
+<div align="center">👾 used as the main 👾</div>
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-<br></br>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white"</a> &nbsp
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp 
+</p>
 </br>
 
-<h4 align="center">⚙️ Tools ⚙️</h4>
+<h4 align="center">⚙️ used at least once ⚙️</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/intellijidea-#000000?style=flat-square&logo=intellijidea&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis%2B%2B&logoColor=white"/></a> &nbsp 
+<br></br>
+
+---
 
 </p>
 
@@ -47,8 +51,7 @@
   <div align="center">소통을 중요하게 생각하고 매일매일 새로운 무언가를 배우기 위해 달리고 있습니다.</div>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongddiyong&show_icons=true&theme=radical)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongddiyong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ----
-<!--[jw0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw0111&theme=buefy&show_icons=true)-->
-<br></br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jw0111)](https://solved.ac/jw0111)
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjw0111%2Fhit-counter&count_bg=%23FFDAB9&title_bg=%23FFC0CB&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
