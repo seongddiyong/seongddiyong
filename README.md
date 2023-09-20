@@ -22,7 +22,7 @@
 <p align="center">
   <div align="center">👾🤖 안녕하세요! 👽👻</div>
   <div align="center">"게으름이 내 실력의 이유가 되지 말자"를 모토로 공부하고 있는 박성훈입니다.</div>
-  <div align="center">소통을 중요하게 생각하고 매일매일 새로운 무언가를 배우기 위해 달리고 있습니다.</div>
+  <div align="center">소통을 중요하게 생각하고 고민하며 매일매일 새로운 무언가를 배우기 위해 달리고 있습니다.</div>
 </p>
 
 <br></br>
