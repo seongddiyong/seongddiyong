@@ -14,6 +14,7 @@
 <h3 align="center">📧 Email 📧</h3>
 
 <div align="center">kodd11021@gmail.com</div>
+<div align="center">kodd1102@naver.com</div>
 
 <div align="center"></div>
 
