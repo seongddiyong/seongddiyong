@@ -22,8 +22,8 @@
 
 <p align="center">
   <div align="center">👾🤖 안녕하세요! 👽👻</div>
-  <div align="center">"게으름이 내 실력의 이유가 되지 말자"를 모토로 공부하고 있는 박성훈입니다.</div>
-  <div align="center">소통을 중요하게 생각하고 고민하며 매일매일 새로운 무언가를 배우기 위해 달리고 있습니다.</div>
+  <div align="center">**좌우명** : "게으름이 내 실력의 이유가 되지 말자"</div>
+  <div align="center">**목표** : 다양한 사고방식을 학습해 문제에 유연한 대처를 할 수 있는 개발자</div>
 </p>
 
 <br></br>
