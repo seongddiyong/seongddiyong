@@ -21,7 +21,7 @@
 <br></br>
 
 <p align="center">
-  <div align="center">👾🤖 안녕하세요! 👽👻</div>
+  <div align="center">👾🤖 안녕하세요! 박성훈 입니다! 👽👻</div>
   <div align="center"> 좌우명 :: "게으름이 내 실력의 이유가 되지 말자"</div>
   <div align="center"> 목표 :: 다양한 사고방식을 학습해 문제에 유연한 대처를 할 수 있는 개발자</div>
 </p>
