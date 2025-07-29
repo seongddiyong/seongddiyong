@@ -8,6 +8,7 @@
 * [22.08.29~23.02.15] 3rd UMC **인하대학교 회장** / **BOLD지부 지부장**
 * [22.12.26~22.02.15] [3rd UMC 앱런칭 프로젝트 "라고할때살걸"](https://github.com/LGHTSG/SpringServerAPI-public) **BE 우수상 수상**
 * [23.06.28~23.08.24] [4th UMC 프로젝트 "CMAP"](https://github.com/UMCCMAP) **BE**
+* [24.08.12~] HanaTI Capiatal Service Team
 
 ---
 <br></br>
